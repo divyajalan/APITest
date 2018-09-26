@@ -1,5 +1,5 @@
 {
-	"MeditationOculusAppSettings": {
+	"MOASettingsWaterfall": {
 		"environmentName": "Waterfall",
 		"timeForMeditation": 0,
 
@@ -8,6 +8,18 @@
 
 		"customTextEnabled": true,
 		"customText": "Om",
+
+		"customImageEnabled": false
+	},
+	"MOASettingsRainforest": {
+		"environmentName": "Rainforest",
+		"timeForMeditation": 0,
+
+		"guidedVoiceEnabled": true,
+		"backgroundMusicEnabled": true,
+
+		"customTextEnabled": true,
+		"customText": "GayatriMantra",
 
 		"customImageEnabled": false
 	},
