@@ -1,0 +1,12 @@
+{
+  "environmentName": "Waterfall",
+	"timeForMeditation": 0,
+  
+  "guidedVoiceEnabled": true,
+  "backgroundMusicEnabled": true,
+
+  "customTextEnabled": true,
+  "customText": "Om",
+
+  "customImageEnabled": false
+}
