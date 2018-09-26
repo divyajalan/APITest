@@ -1,19 +1,17 @@
 {
-  "MeditationOculusAppSettings": [
-    {
-      "environmentName": "Waterfall",
-      "timeForMeditation": 0,
+	"MeditationOculusAppSettings": {
+		"environmentName": "Waterfall",
+		"timeForMeditation": 0,
 
-      "guidedVoiceEnabled": true,
-      "backgroundMusicEnabled": true,
+		"guidedVoiceEnabled": true,
+		"backgroundMusicEnabled": true,
 
-      "customTextEnabled": true,
-      "customText": "Om",
+		"customTextEnabled": true,
+		"customText": "Om",
 
-      "customImageEnabled": false
-    }
-  ],
-  "profile": {
-    "name": "divyajalan"
-  }
+		"customImageEnabled": false
+	},
+	"profile": {
+		"name": "divyajalan"
+	}
 }
